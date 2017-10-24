@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Snap Screenshot</string>
+    <string name="notify_record">Mag-record</string>
+    <string name="notify_stop">Itigil</string>
+    <string name="start_snap_screenshot">Simulan Snap Screenshot</string>
+    <string name="snap_screenshot_running">Snap Screenshot Running</string>
+    <string name="camera_icon">Icon ng Camera</string>
+    <string name="start_snap_saver">Simulan ang Snap Saver</string>
+    <string name="stop_snap_screenshot">Mag-click dito upang ihinto ang Snap Screenshot</string>
+    <string name="remove_ads">Kumuha ng Bersyon ng Pro</string>
+    <string name="rate_app">Rate ng App</string>
+    <string name="share_app">Ibahagi ang App</string>
+    <string name="feedback">Feedback</string>
+    <string name="open_screenshots">Buksan ang Mga screenshot</string>
+    <string name="become_a_pro_user">Maging isang User ng Pro</string>
+    <string name="already_pro_version">Salamat sa Pagbili ng Ad Libreng Bersyon. Enjoy !!</string>
+    <string name="play_billing_licence_key"></string>
+    <string name="cross_icon">Cross Icon</string>
+    <string name="get_pro_version">Kumuha ng Bersyon ng Pro</string>
+    <string name="desc">Ang app na ito ay nagbibigay-daan sa mga gumagamit sa Snapchat screenshot nang walang pag-detect. Kinakailangan ang Walang Root</string>
+
+</resources>
