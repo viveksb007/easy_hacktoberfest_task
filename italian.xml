@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cattura Snap</string>
+    <string name="notify_record">Registra</string>
+    <string name="notify_stop">Ferma</string>
+    <string name="start_snap_screenshot">Inizia la cattura Snap</string>
+    <string name="snap_screenshot_running">Cattura Snap in corso</string>
+    <string name="camera_icon">Icona della camera</string>
+    <string name="start_snap_saver">Inizia il salvataggio Snap</string>
+    <string name="stop_snap_screenshot">Clicca qui per interrompere la cattura Snap</string>
+    <string name="remove_ads">Ottieni la versione Pro</string>
+    <string name="rate_app">Valuta l'App</string>
+    <string name="share_app">Condividi l'App</string>
+    <string name="feedback">Risposta</string>
+    <string name="open_screenshots">Apri le catture</string>
+    <string name="become_a_pro_user">Diventa un utente Pro</string>
+    <string name="already_pro_version">Grazie per aver acquistato una versione senza pubblicità. Divertiti!!</string>
+    <string name="play_billing_licence_key"></string>
+    <string name="cross_icon">Icona della croce</string>
+    <string name="get_pro_version">Ottieni la versione Pro</string>
+    <string name="desc">Questa app consente agli utenti Snapchat di catturare le schermate senza essere notati. Non richiede di essere Root.</string>
+
+</resources>
+
