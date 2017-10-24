@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Snap Screenshot</string>
+    <string name="notify_record">Aufzeichnung</string>
+    <string name="notify_stop">Halt</string>
+    <string name="start_snap_screenshot">Screenshot starten</string>
+    <string name="snap_screenshot_running">Snap Screenshot Laufen</string>
+    <string name="camera_icon">Kamerasymbol</string>
+    <string name="start_snap_saver">Snap Saver starten</string>
+    <string name="stop_snap_screenshot">Klicken Sie hier, um Snap-Screenshot zu stoppen</string>
+    <string name="remove_ads">Pro-Version holen</string>
+    <string name="rate_app">Bewertungs App</string>
+    <string name="share_app">App teilen</string>
+    <string name="feedback">Feedback</string>
+    <string name="open_screenshots">Screenshots öffnen</string>
+    <string name="become_a_pro_user">Pro-Benutzer werden</string>
+    <string name="already_pro_version">Vielen Dank für den Kauf von Ad Free Version. Genießen !!</string>
+    <string name="play_billing_licence_key"></string>
+    <string name="cross_icon">Kreuzsymbol</string>
+    <string name="get_pro_version">Pro-Version holen</string>
+    <string name="desc">Mit dieser App können Nutzer Snapchat ohne Erkennung anzeigen. Keine Wurzel erforderlich</string>
+
+</resources>
