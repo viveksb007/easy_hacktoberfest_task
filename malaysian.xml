@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Petikan Snap</string>
+    <string name="notify_record">Rekod</string>
+    <string name="notify_stop">Berhenti</string>
+    <string name="start_snap_screenshot">Mulakan tangkapan Snap</string>
+    <string name="snap_screenshot_running">Tangkapan Snap Running</string>
+    <string name="camera_icon">Ikon Kamera</string>
+    <string name="start_snap_saver">Mula Snap Saver</string>
+    <string name="stop_snap_screenshot">Klik di sini untuk menghentikan Petikan Snap</string>
+    <string name="remove_ads">Dapatkan Versi Pro</string>
+    <string name="rate_app">Rate App</string>
+    <string name="share_app">Kongsi App</string>
+    <string name="feedback">Maklumbalas</string>
+    <string name="open_screenshots">Skrin Terbuka</string>
+    <string name="become_a_pro_user">Menjadi Pengguna Pro</string>
+    <string name="already_pro_version">Terima kasih untuk Pembelian Iklan Versi Percuma. Nikmati !!</string>
+    <string name="play_billing_licence_key"></string>
+    <string name="cross_icon">Ikon Salib</string>
+    <string name="get_pro_version">Dapatkan Versi Pro</string>
+    <string name="des">Aplikasi ini membolehkan pengguna untuk mengambil gambar Snapchat tanpa pengesanan. Tiada Akar Diperlukangit </string>
+
+</resources>
