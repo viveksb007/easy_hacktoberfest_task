@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Capturar Screenshot</string>
+    <string name="notify_record">Gravar</string>
+    <string name="notify_stop">Parar</string>
+    <string name="start_snap_screenshot">Iniciar Captura de Screenshot</string>
+    <string name="snap_screenshot_running">Executando Captura de Screenshot</string>
+    <string name="camera_icon">Ícone Câmera</string>
+    <string name="start_snap_saver">Iniciar Servidor de Captura</string>
+    <string name="stop_snap_screenshot">Clique aqui para parar a captura de Screenshot</string>
+    <string name="remove_ads">Adquira a versão Pro</string>
+    <string name="rate_app">Avalie o App</string>
+    <string name="share_app">Compartilhe o App</string>
+    <string name="feedback">Feedback</string>
+    <string name="open_screenshots">Abrir Screenshots</string>
+    <string name="become_a_pro_user">Torne-se um usuário Pro</string>
+    <string name="already_pro_version">Obrigado por comprar a versão gratuita anunciada. Aprecie!!</string>
+    <string name="play_billing_licence_key"></string>
+    <string name="cross_icon">Ícone cruzado</string>
+    <string name="get_pro_version">Adquira a versão Pro</string>
+    <string name="desc">Este aplicativo permite aos usuários capturarem a tela Snapchat sem detecção. Root não é necessário</string>
+
+</resources>
