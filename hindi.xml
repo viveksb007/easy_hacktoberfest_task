@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">स्नैप स्क्रीनशॉट</string>
+    <string name="notify_record">अभिलेख</string>
+    <string name="notify_stop">रुकें</string>
+    <string name="start_snap_screenshot">स्नैप स्क्रीनशॉट प्रारंभ करें</string>
+    <string name="snap_screenshot_running">स्नैप स्क्रीनशॉट चालू</string>
+    <string name="camera_icon">कैमरा आइकन</string>
+    <string name="start_snap_saver">स्नैप सेवर प्रारंभ करें</string>
+    <string name="stop_snap_screenshot">स्नैप स्क्रीनशॉट को रोकने के लिए यहां क्लिक करें</string>
+    <string name="remove_ads">प्रो संस्करण प्राप्त</string>
+    <string name="rate_app">एप्लिकेशन का मूल्यांकन करें</string>
+    <string name="share_app">एप्लिकेशन शेयर करें</string>
+    <string name="feedback">प्रतिक्रिया</string>
+    <string name="open_screenshots">स्क्रीनशॉट खोलें</string>
+    <string name="become_a_pro_user">एक प्रो उपयोगकर्ता बनें</string>
+    <string name="already_pro_version">क्रय विज्ञापन फ्री संस्करण के लिए धन्यवाद। का आनंद लें !!</string>
+    <string name="play_billing_licence_key"></string>
+    <string name="cross_icon">क्रॉस आइकन</string>
+    <string name="get_pro_version">प्रो संस्करण प्राप्त/string>
+    <string name="desc">यह ऐप उपयोगकर्ताओं को बिना पता लगाने के स्नैपचैट स्क्रीनशॉट करने देता है। कोई रूट आवश्यक नहीं</string>
+
+</resources>
