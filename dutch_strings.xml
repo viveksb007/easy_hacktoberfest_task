@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Snap Screenshot</string>
+    <string name="notify_record">Record</string>
+    <string name="notify_stop">Hou op</string>
+    <string name="start_snap_screenshot">Start Snap Screenshot</string>
+    <string name="snap_screenshot_running">Snap Screenshot Running</string>
+    <string name="camera_icon">Camera Pictogram</string>
+    <string name="start_snap_saver">Start Snap Saver</string>
+    <string name="stop_snap_screenshot">Klik hier om te stoppen met Snap Screenshot</string>
+    <string name="remove_ads">Krijg de pro versie</string>
+    <string name="rate_app">Beoordeel app</string>
+    <string name="share_app">Deel app</string>
+    <string name="feedback">Terugkoppeling</string>
+    <string name="open_screenshots">Open Screenshots</string>
+    <string name="become_a_pro_user">Word een Pro-gebruiker</string>
+    <string name="already_pro_version">Bedankt voor de aankoop van gratis gratis versie. Genieten !!</string>
+    <string name="play_billing_licence_key"></string>
+    <string name="cross_icon">Cross Icon</string>
+    <string name="get_pro_version">Krijg de pro versie</string>
+    <string name="desc">Met deze app kunnen gebruikers Snapchat zonder detectie scannen. Geen wortel vereist</string>
+
+</resources>
