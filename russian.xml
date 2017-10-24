@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Скриншот Snap</string>
+    <string name="notify_record">запись</string>
+    <string name="notify_stop">Стоп</string>
+    <string name="start_snap_screenshot">Запустить скриншот Snap</string>
+    <string name="snap_screenshot_running">Скриншот Snap Running</string>
+    <string name="camera_icon">Иконка камеры</string>
+    <string name="start_snap_saver">Запустить Snap Saver</string>
+    <string name="stop_snap_screenshot">Нажмите здесь, чтобы остановить скриншот Snap</string>
+    <string name="remove_ads">Получить версию Pro</string>
+    <string name="rate_app">Оценить приложение</string>
+    <string name="share_app">Поделиться приложением</string>
+    <string name="feedback">Обратная связь</string>
+    <string name="open_screenshots">Открытые скриншоты</string>
+    <string name="become_a_pro_user">Стать профессиональным пользователем</string>
+    <string name="already_pro_version">Спасибо за покупку бесплатной бесплатной версии. Наслаждаться !!</string>
+    <string name="play_billing_licence_key"></string>
+    <string name="cross_icon">Крест Иконка</string>
+    <string name="get_pro_version">Получить версию Pro</string>
+    <string name="desc">Это приложение позволяет пользователям скриншот Snapchat без обнаружения. Нет необходимости в корне</string>
+
+</resources>
