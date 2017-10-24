@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">快照截图</string>
+    <string name="notify_record">记录</string>
+    <string name="notify_stop">停止</string>
+    <string name="start_snap_screenshot">开始快照截图</string>
+    <string name="snap_screenshot_running">快照截图运行</string>
+    <string name="camera_icon">相机图标</string>
+    <string name="start_snap_saver">启动快照保护程序</string>
+    <string name="stop_snap_screenshot">点击这里停止截图</string>
+    <string name="remove_ads">获得专业版</string>
+    <string name="rate_app">评价应用</string>
+    <string name="share_app">分享应用程式</string>
+    <string name="feedback">反馈</string>
+    <string name="open_screenshots">打开截图</string>
+    <string name="become_a_pro_user">成为专业用户</string>
+    <string name="already_pro_version">感谢您购买广告免费版本。请享用！！</string>
+    <string name="play_billing_licence_key"></string>
+    <string name="cross_icon">十字图标</string>
+    <string name="get_pro_version">获得专业版</string>
+    <string name="desc">该应用程序允许用户截图Snapchat而不检测。不需要根</string>
+
+</resources>
