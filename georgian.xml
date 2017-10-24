@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">გადაიღე სქრინშოთი</string>
+    <string name="notify_record">ჩაწერა</string>
+    <string name="notify_stop">გაჩერება</string>
+    <string name="start_snap_screenshot">დაიწყე გადაღება</string>
+    <string name="snap_screenshot_running">აპლიკაცია ჩართულია</string>
+    <string name="camera_icon">კამერის აიკონი</string>
+    <string name="start_snap_saver">დაიწყე შენახვის რეჟიმი</string>
+    <string name="stop_snap_screenshot">აპლიკაციის გაჩერებისთვის დააჭირეთ აქ</string>
+    <string name="remove_ads">იყიდეთ პრო ვერსია</string>
+    <string name="rate_app">შეაფასე აპლიკაცია</string>
+    <string name="share_app">გააზიარე</string>
+    <string name="feedback">ფიდბექი</string>
+    <string name="open_screenshots">გახსენი სქრინშოთები</string>
+    <string name="become_a_pro_user">გახდი პრო მომხმარებელი</string>
+    <string name="already_pro_version">მადლობა აპლიკაციის უფასო ვერიის შეძენისთვის, ისიამოვნეთ!!</string>
+    <string name="play_billing_licence_key"></string>
+    <string name="cross_icon"აიკონი</string>
+    <string name="get_pro_version">შეიძინეთ პრო ვერსია</string>
+    <string name="desc">აღნიშნული აპლიკაცია მომხმარებლებს აძლევს საშუალებას, სნაფჩათს გადაუღონს სქრინშოთი. არ საჭიროებს რუთს.</string>
+
+</resources>
