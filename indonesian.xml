@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Tangkap Screenshot</string>
+    <string name="notify_record">merekam</string>
+    <string name="notify_stop">berhenti</string>
+    <string name="start_snap_screenshot">Mulai Snap Screenshot</string>
+    <string name="snap_screenshot_running">Snap Screenshot Menjalankan</string>
+    <string name="camera_icon">Ikon kamera</string>
+    <string name="start_snap_saver">Mulai Snap Saver</string>
+    <string name="stop_snap_screenshot">Klik di sini untuk menghentikan Snap Screenshot</string>
+    <string name="remove_ads">Dapatkan Versi Pro</string>
+    <string name="rate_app">Beri nilai aplikasi</string>
+    <string name="share_app">Bagikan Apl</string>
+    <string name="feedback">Umpan balik</string>
+    <string name="open_screenshots">Buka Screenshot</string>
+    <string name="become_a_pro_user">Jadilah Pengguna Pro</string>
+    <string name="already_pro_version">Terima kasih telah membeli Iklan Versi Gratis. Nikmati !!</string>
+    <string name="play_billing_licence_key"></string>
+    <string name="cross_icon">Ikon silang</string>
+    <string name="get_pro_version">Dapatkan Versi Pro</string>
+    <string name="desc">Aplikasi ini memungkinkan pengguna untuk mengambil screenshot Snapchat tanpa deteksi. Tidak perlu Root</string>
+
+</resources>
