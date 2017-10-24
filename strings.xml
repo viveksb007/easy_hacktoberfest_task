@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Snap Screenshot</string>
+    <string name="notify_record">Record</string>
+    <string name="notify_stop">Stop</string>
+    <string name="start_snap_screenshot">Start Snap Screenshot</string>
+    <string name="snap_screenshot_running">Snap Screenshot Running</string>
+    <string name="camera_icon">Camera Icon</string>
+    <string name="start_snap_saver">Start Snap Saver</string>
+    <string name="stop_snap_screenshot">Click here to stop Snap Screenshot</string>
+    <string name="remove_ads">Get Pro Version</string>
+    <string name="rate_app">Rate App</string>
+    <string name="share_app">Share App</string>
+    <string name="feedback">Feedback</string>
+    <string name="open_screenshots">Open Screenshots</string>
+    <string name="become_a_pro_user">Become a Pro User</string>
+    <string name="already_pro_version">Thanks for Purchasing Ad Free Version. Enjoy !!</string>
+    <string name="play_billing_licence_key"></string>
+    <string name="cross_icon">Cross Icon</string>
+    <string name="get_pro_version">Get Pro Version</string>
+    <string name="desc">This app allows users to screenshot Snapchat without detection. No Root Required</string>
+
+</resources>
